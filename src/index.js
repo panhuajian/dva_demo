@@ -6,10 +6,10 @@ import './index.css';
 const app = dva({
   initialState: {
     products: [{
-      name: 'dva',
+      name: 'dva111',
       id: 1
     }, {
-      name: 'antd',
+      name: 'antd11',
       id: 2
     }]
   }
